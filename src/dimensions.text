@@ -1,0 +1,13 @@
+.container {
+  background-color: black;
+  width: 793px;
+  height: 1122px;
+}
+.container1 {
+  background-color: red;
+  width: 210mm;
+  height: 297mm;
+}
+
+yellow - #FFFCDC ,255, 252, 220
+red - #A3443A

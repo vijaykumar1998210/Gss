@@ -1,0 +1,69 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.table2div {
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 8px;
+}
+.table2 {
+  width: 100%;
+  font-size: 13px;
+}
+.table2,
+th,
+td {
+  border: 2px solid black;
+  border-collapse: collapse;
+  text-align: left;
+  padding-left: 3px;
+}
+.w3 {
+  text-align: left;
+  text-transform: capitalize;
+  padding-right: 10px;
+  padding-top: 3px;
+}
+.w4 {
+  text-align: center;
+  text-transform: capitalize;
+  padding: 2px;
+}
+.w5 {
+  text-align: center;
+  text-transform: capitalize;
+  padding: 10px 0;
+  padding: 10px 1px;
+}
+.head1_color {
+  text-align: center;
+  padding: 3px;
+}
+.w7 {
+  text-align: left;
+  font-weight: 600 !important;
+  
+}
+.table2 td {
+  font-weight: 500;
+  padding: 3px;
+  
+}
+
+.input_field2 {
+background: transparent;
+  border: none;
+  outline: none;
+  width: 25px;
+  font-weight: 500;
+}
+.input_field3 {
+  background: transparent;
+    border: none;
+    outline: none;
+    width: 70px;
+    font-weight: 500;
+    padding-left: 10px;
+  }
